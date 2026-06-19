@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://slaviotmmyt.github.io/cn-cns-leisu-com-2/sitemap.xml
